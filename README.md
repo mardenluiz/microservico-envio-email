@@ -1,10 +1,10 @@
-### Microserviço de envio de E-mail com AWS SES e RabbitMQ
+### Microserviço de envio de E-mail com AWS SES e RabbitMQ<br/>
 
-#### Tecnologias ultilizadas
+#### Tecnologias ultilizadas<br/>
 
-Java 17 - Linguagem de programação
-Spring Boot - Framework java
-Maven - Gerenciador de pacotes e build
-RabbitMQ - Serviço de Mensageria
-AWS SES - Para envio de E-mail
-Bando de Dados MySQL - Para persistência de dados
+Java 17 - Linguagem de programação<br/>
+Spring Boot - Framework java<br/>
+Maven - Gerenciador de pacotes e build<br/>
+RabbitMQ - Serviço de Mensageria<br/>
+AWS SES - Para envio de E-mail<br/>
+Bando de Dados MySQL - Para persistência de dados<br/>
