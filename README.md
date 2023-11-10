@@ -7,4 +7,4 @@
 * Maven - Gerenciador de pacotes e build
 * RabbitMQ - Serviço de Mensageria
 * AWS SES - Para envio de E-mail
-* Bando de Dados MySQL - Para persistência de dados
+* Banco de Dados MySQL - Para persistência de dados
